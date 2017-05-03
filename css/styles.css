@@ -1,0 +1,38 @@
+body {
+	font-family: "Roboto Condensed", sans-serif;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 20px;
+	color:#2d3c49;
+}
+
+header {
+	padding: 10px;
+}
+
+hr {
+	border-width: 2px;
+}
+
+.grid-title {
+	margin: 10px 0px 0px 0px;
+	color: #7d97ad
+}
+
+.text-uppercase {
+	text-transform: uppercase;
+}
+
+.title-line {
+	border-color:#7d97ad;
+}
+
+.project-item {
+	margin-bottom: 5px;
+}
+
